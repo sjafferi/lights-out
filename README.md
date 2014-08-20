@@ -1,7 +1,7 @@
 Lights-Out
 ==========
 Uses the observer design pattern of programming to make the simple game Lights Out (http://en.wikipedia.org/wiki/Lights_Out_(game)). Run make to build, must have xming/x11.
-Enter standard input after running to program to play.
+Enter standard input after running the program to play.
 
 new X (X is any natural number): Makes a new grid of size X (must run this first)
 
